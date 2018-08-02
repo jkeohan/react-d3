@@ -4,7 +4,7 @@ In this exercise, you'll follow the instructions below to build a simple _todo l
 ![Complete todo list](img/complete.png)
 In doing so, you'll create and render two react components. See the solution in the `solution.js` file. 
 
-**Starter Code:** [D3 - Scatterplot - Importing Data - Starter](https://codepen.io/jkeohan/pen/RQPEox)
+**Starter Code:** [React-04-React-Intro-Excercise-Starter](https://codepen.io/jkeohan/pen/ejrvWQ?editors=0010)
 
 ## Instructions
 The necessary CSS and HTML code are already written for you in this exercise. You'll also notice that there is an array of objects storing the _todo_ items that you'll render. In your `main.js` file, complete the following steps:
@@ -47,4 +47,4 @@ In the components `render()` method, return the following:
 ### Rendering the list
 To render your `<TodoList>` component, use the `ReactDOM.render()` method. Make sure to specify the `list` property of the `<TodoList>` component, and render the list inside the DOM element with id `root`. 
 
-**Solution Code:** [D3 - Scatterplot - Importing Data - Starter](https://codepen.io/jkeohan/pen/RQPEox)
+**Solution Code:** [React-04-React-Intro-Excercise-Solution](https://codepen.io/jkeohan/pen/RQPEox)
