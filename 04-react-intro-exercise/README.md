@@ -47,4 +47,4 @@ In the components `render()` method, return the following:
 ### Rendering the list
 To render your `<TodoList>` component, use the `ReactDOM.render()` method. Make sure to specify the `list` property of the `<TodoList>` component, and render the list inside the DOM element with id `root`. 
 
-**Solution Code:** [React-04-React-Intro-Excercise-Solution](https://codepen.io/jkeohan/pen/RQPEox)
+**Solution Code:** [D3/REACT - 04-React-Intro-Excercise-Solution](https://codepen.io/jkeohan/pen/RQPEox)
